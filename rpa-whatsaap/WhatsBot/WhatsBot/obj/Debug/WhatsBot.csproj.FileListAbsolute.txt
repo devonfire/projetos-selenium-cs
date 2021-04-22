@@ -1,0 +1,17 @@
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\WhatsBot.exe.config
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\WhatsBot.exe
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\WhatsBot.pdb
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\WebDriver.dll
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\WebDriver.Support.dll
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\WebDriver.xml
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\WebDriver.Support.xml
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\obj\Debug\WhatsBot.csprojAssemblyReference.cache
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\obj\Debug\WhatsBot.Form1.resources
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\obj\Debug\WhatsBot.Properties.Resources.resources
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\obj\Debug\WhatsBot.csproj.GenerateResource.cache
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\obj\Debug\WhatsBot.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\obj\Debug\WhatsBot.csproj.CopyComplete
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\obj\Debug\WhatsBot.exe
+C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\obj\Debug\WhatsBot.pdb

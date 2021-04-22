@@ -1,0 +1,12 @@
+2021/03/23-10:43:37.865 4e4 Reusing MANIFEST C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\ChromeDriver\Cache\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-10:43:37.865 4e4 Recovering log #12
+2021/03/23-10:43:37.945 4e4 Reusing old log C:\Users\Roberto\Documents\Projetos e Estudos\estudos-e-projetos-cs\rpa-whatsaap\WhatsBot\WhatsBot\bin\Debug\ChromeDriver\Cache\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000012.log 
+2021/03/23-10:43:42.765 2e9c Level-0 table #17: started
+2021/03/23-10:43:42.973 2e9c Level-0 table #17: 1195037 bytes OK
+2021/03/23-10:43:43.067 2e9c Delete type=0 #12
+2021/03/23-10:43:43.073 2e9c Compacting 1@1 + 1@2 files
+2021/03/23-10:43:43.552 2e9c Generated table #18@1: 28725 keys, 1340107 bytes
+2021/03/23-10:43:43.552 2e9c Compacted 1@1 + 1@2 files => 1340107 bytes
+2021/03/23-10:43:43.635 2e9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/23-10:43:43.635 2e9c Delete type=2 #14
+2021/03/23-10:43:43.635 2e9c Delete type=2 #17
