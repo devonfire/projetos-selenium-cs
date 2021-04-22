@@ -7,7 +7,7 @@
 
 * <b>rpa-whatsaap<b>
 
-É um programa bem básico em Windows Forms, o qual aceita como entrada o nome de contato e a mensagem que você deseja enviar. Com isso, através do Selenium, ele acessa o seu Whats por meio do <web.whatsapp.com> e envia o que você havia definido no TextBox da aplicação.
+É um programa bem básico em Windows Forms, o qual aceita como entrada o nome de contato e a mensagem que você deseja enviar. Com isso, através do Selenium, ele acessa o seu Whats por meio do < web.whatsapp.com > e envia o que você havia definido no TextBox da aplicação.
 
 <br/>
  
