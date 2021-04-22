@@ -1,8 +1,8 @@
 # RPAs em Selenium e C#
 
-## Gerador de Pessoa Ficticia via 4 Devs
+## Gerador de Pessoa Ficticia via 4 Devs -   É um programa bem básico em Windows Forms, o qual valida os valores de entrada inseridos pelo usuário como idade e sexo,
+e com isso acessa o site <b>4devs<b> afim de gerar dados de uma pessoa fictícia.
 <br/>
-  É um programa bem básico em Windows Forms, o qual valida os valores entrada como idade e sexo
-  e com isso acessa <b>4devs<b> na opção: <b>"Gerador de documentos de pessoas"<b>
+
   
  
