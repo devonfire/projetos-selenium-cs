@@ -13,6 +13,5 @@
  
  * <b>rpa-consultor-de-cep<b>
 
-É um programa bem básico em Windows Forms, o qual aceita como entrada o nome de contato e a mensagem que você deseja enviar. Com isso, através do Selenium, ele acessa o seu Whats por meio do <a href="web.whatsapp.com">web.whatsapp.com<a/> e envia o que você havia definido no TextBox da aplicação.
-
+Basicamente, faz a consulta diretamente no serviço de <a href="https://buscacepinter.correios.com.br/app/endereco/index.php?t">Busca do Correio</a> por um CEP inserido pelo usuário.
 <br/>
