@@ -13,5 +13,5 @@
  
  * <b>rpa-consultor-de-cep<b>
 
-Basicamente, faz a consulta diretamente no serviço de <a href="https://buscacepinter.correios.com.br/app/endereco/index.php?t">Busca do Correio</a> por um CEP inserido pelo usuário.
+Basicamente, faz a consulta diretamente no serviço de <a href="https://buscacepinter.correios.com.br/app/endereco/index.php?t">Busca do Correio</a> por um CEP inserido pelo usuário pelo TextBox da aplicação.
 <br/>
